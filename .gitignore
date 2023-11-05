@@ -1,3 +1,8 @@
+ALCE-data/
+ALCE-data.tar
+
+#############################################
+# Defaults added by GitHub
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
